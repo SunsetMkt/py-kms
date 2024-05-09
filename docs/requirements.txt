@@ -11,7 +11,7 @@ distlib==0.3.0
 distro==1.5.0
 docutils==0.16
 html5lib==1.0.1
-idna==2.9
+idna==3.7
 imagesize==1.2.0
 Jinja2==2.11.2
 lockfile==0.12.2
